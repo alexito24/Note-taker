@@ -34,3 +34,4 @@
   For any questions, please contact me with the information below:
 
   GitHub: [@alexito24](https://api.github.com/users/alexito24)
+  Email: alexito2002.ll@gmail.com
